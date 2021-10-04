@@ -15,7 +15,7 @@ jobs:
         with:
           dotnet-version: '6.0.100-rc.1.21458.32' 
       - run: dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover /p:CoverletOutput=./coverage/opencover.xml
-      - run: dotnet publish ./src/Fibonacci.web/Fibonacci.web.csproj --self-contained true --output ./win-x64/fibonacci -f netcoreapp3.1 -c Release -r win-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true /p:PublishReadyToRun=true
+      - run: dotnet publish ./src/Fibonacci.web/Fibonacci.web.csproj --self-contained true --output ./win-x64/fibonacci -c Release -r win-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true /p:PublishReadyToRun=true
       - name: Upload WebApp1 Build Artifact
         uses: actions/upload-artifact@v2
         with:

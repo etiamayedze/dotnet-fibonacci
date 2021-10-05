@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "Fibonacci.web/1.0.0": {
         "dependencies": {
-          "Fibonacci": "1.0.0"
+          "Etiam.Ayedze.Fibonacci": "1.0.0"
         },
         "runtime": {
           "Fibonacci.web.dll": {}
         }
       },
-      "Fibonacci/1.0.0": {
+      "Etiam.Ayedze.Fibonacci/1.0.0": {
         "runtime": {
           "Fibonacci.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Fibonacci/1.0.0": {
+    "Etiam.Ayedze.Fibonacci/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

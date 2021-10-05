@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DO33lEykaii/0mI+RltuMds8NEM/upjOIelzlHi5AvJWcsF4RbqciC+NUd0qyUNDRss86E9hPP1ZsW0tOgEP2w==",
+  "dgSpecHash": "nlvWEA2J8kKZWrDZIyMBED8OkFTfG52qPzGvVl61lPhDPCJTtmS1sEjoQr3LSHcgDFSyKV1OYcPGfmq9We/tnw==",
   "success": true,
-  "projectFilePath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
+  "projectFilePath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Etiam\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

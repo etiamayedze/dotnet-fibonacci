@@ -6,7 +6,60 @@
     <projectFile profileName="IIS Express">src/Fibonacci.web/Fibonacci.web.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9954b827-4835-4b2d-b6e6-82aff4a0e95b" name="Changes" comment="" />
+    <list default="true" id="9954b827-4835-4b2d-b6e6-82aff4a0e95b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/Debug/net6.0/Demo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/Debug/net6.0/Demo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/Debug/net6.0/Demo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/Debug/net6.0/Demo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/Debug/net6.0/Demo.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/Debug/net6.0/Demo.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/Demo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/Demo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/Fibonacci.web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/Fibonacci.web.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.web.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.web.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/bin/Debug/net6.0/Fibonacci.web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Debug/net6.0/Fibonacci.web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Fibonacci.web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Fibonacci.web.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Fibonacci.web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Fibonacci.web.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/Fibonacci.web.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/Fibonacci.web.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.web/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.web/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/Fibonacci.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/Fibonacci.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/bin/Debug/net6.0/Fibonacci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/bin/Debug/net6.0/Fibonacci.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/Fibonacci.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/Fibonacci.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Debug/net6.0/Fibonacci.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Debug/net6.0/Fibonacci.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Debug/net6.0/Fibonacci.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Debug/net6.0/Fibonacci.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Debug/net6.0/Fibonacci.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Debug/net6.0/Fibonacci.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Fibonacci.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/Fibonacci.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Fibonacci.Tests/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +143,7 @@
       <updated>1632743405648</updated>
       <workItem from="1632743412369" duration="5175000" />
       <workItem from="1633341307705" duration="4012000" />
+      <workItem from="1633354957544" duration="1857000" />
     </task>
     <servers />
   </component>

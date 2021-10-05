@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {}
+    "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {}
   },
   "projects": {
-    "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {
+    "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+        "projectUniqueName": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
         "projectName": "Fibonacci.web",
-        "projectPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+        "projectPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
         "packagesPath": "C:\\Users\\Etiam\\.nuget\\packages\\",
-        "outputPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\obj\\",
+        "outputPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Etiam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-                "projectPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
+              "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+                "projectPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
               }
             }
           }
@@ -41,6 +41,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Etiam.Ayedze.Fibonacci": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,14 +69,14 @@
         }
       }
     },
-    "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+    "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
-        "projectName": "Fibonacci",
-        "projectPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
+        "projectUniqueName": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
+        "projectName": "Etiam.Ayedze.Fibonacci",
+        "projectPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\Etiam\\.nuget\\packages\\",
-        "outputPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\obj\\",
+        "outputPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Etiam\\AppData\\Roaming\\NuGet\\NuGet.Config"

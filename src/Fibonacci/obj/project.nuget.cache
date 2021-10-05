@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aZjRJIRrG46sV0nmEzu0QrIaVTyyuG/cR9z1OyrqpV6JIZQ8dmeKy76JgHMsAjpdKgydZMcMPGsAO3qINUEtfQ==",
+  "dgSpecHash": "qZmkrJqdszsd0EU9e/dfLvLMTtWNHOo7bFnVREGKN3WbGZH+AYInfcYuKOkCyQSsKjjB5vE4Q7Z3U9TXfE5hzw==",
   "success": true,
-  "projectFilePath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
+  "projectFilePath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

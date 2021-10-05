@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Fibonacci/1.0.0": {
+      "Etiam.Ayedze.Fibonacci/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "bin/placeholder/Etiam.Ayedze.Fibonacci.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "bin/placeholder/Etiam.Ayedze.Fibonacci.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Fibonacci/1.0.0": {
+    "Etiam.Ayedze.Fibonacci/1.0.0": {
       "type": "project",
       "path": "../Fibonacci/Fibonacci.csproj",
       "msbuildProject": "../Fibonacci/Fibonacci.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Fibonacci >= 1.0.0"
+      "Etiam.Ayedze.Fibonacci >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+      "projectUniqueName": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
       "projectName": "Fibonacci.web",
-      "projectPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+      "projectPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
       "packagesPath": "C:\\Users\\Etiam\\.nuget\\packages\\",
-      "outputPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\obj\\",
+      "outputPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci.web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Etiam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-              "projectPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
+            "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+              "projectPath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
             }
           }
         }
@@ -66,6 +66,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Etiam.Ayedze.Fibonacci": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

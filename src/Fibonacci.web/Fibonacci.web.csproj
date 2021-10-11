@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Fibonacci\Fibonacci.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Etiam.Ayedze.Fibonacci" Version="1.0.0" />
   </ItemGroup>
 

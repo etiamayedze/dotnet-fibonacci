@@ -162,14 +162,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/tests/Fibonacci.Tests/UnitTest1.cs</url>
           <line>12</line>
-          <properties documentPath="W:\FGES\microsoft_techologies\Fibonacci\tests\Fibonacci.Tests\UnitTest1.cs" initialLine="12" containingFunctionPresentation="method 'Executeshouldreturnanumber'">
-            <startOffsets>
-              <option value="272" />
-            </startOffsets>
-            <endOffsets>
-              <option value="300" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="W:\FGES\microsoft_techologies\Fibonacci\tests\Fibonacci.Tests\UnitTest1.cs" initialLine="12" containingFunctionPresentation="method 'Executeshouldreturnanumber'" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

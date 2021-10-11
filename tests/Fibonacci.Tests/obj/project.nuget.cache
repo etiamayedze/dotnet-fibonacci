@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "neHBhJzFHQO5ejIxbjI94lHGFW3gQn7bs4DN4Jwm/9Y+ebJwUgXWcd36DEEDE+NsjTu35jGbdhoLF0Nk1qc1Zg==",
+  "dgSpecHash": "KjnbkCoq96d0a/6yApSbUSsRexXIJc4Bvs1hZB7Iq5U/bWmgn8eSxSIsUt7DIA7MjGJ4YAzq3W0/QCEK5zJRVQ==",
   "success": true,
   "projectFilePath": "W:\\FGES\\microsoft_techologies\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.10\\microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
+    "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.10\\microsoft.entityframeworkcore.inmemory.5.0.10.nupkg.sha512",
     "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.10\\microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
     "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.10\\microsoft.entityframeworkcore.sqlserver.5.0.10.nupkg.sha512",
     "C:\\Users\\Etiam\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",

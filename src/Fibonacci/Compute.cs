@@ -15,7 +15,7 @@ namespace Fibonacci
             _fibonacciDataContext = fibonacciDataContext;
         }
 
-        public static async Task<List<long>> ExecuteAsync(string[] arguments)
+        public async Task<List<long>> ExecuteAsync(string[] arguments)
         {
             var results = await RunFibonaccisAsync(_fibonacciDataContext, arguments);
             await _fibonacciDataContext.SaveChangesAsync();

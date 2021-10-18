@@ -1,3 +1,4 @@
+using System;
 using Fibonacci;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +30,14 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.Use(async (context, next) => {
+    Console.WriteLine("youhou");
+    // Do work that doesn't write to the Response. 
+    await next.Invoke(); 
+    // Do logging or other work that doesn't write to the Response. 
+}); 
+
 
 app.MapControllers();
 
